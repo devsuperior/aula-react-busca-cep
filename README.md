@@ -10,6 +10,8 @@ https://www.figma.com/file/CqskhjRbsUCl7VNzdMXQ4Z/Aula-Viacep?node-id=0%3A1
 
 - https://viacep.com.br/ws/38408902/json
 
+# Sugestão de comando para criar o projeto
+`npx create-react-app aula-busca-cep --template typescript`
 
 ## Available Scripts
 
