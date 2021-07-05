@@ -1,4 +1,4 @@
-.container-wrapper {
+.main-section {
   display: flex;
   justify-content: center;
 }
@@ -65,13 +65,7 @@
   margin-top: 10px;
 }
 
-.result-title {
-  color: #515151;
-  font-size: 16px;
-  line-height: 24px;
-}
-
-.result-subtitle {
+.result-text {
   color: #515151;
   font-size: 16px;
   line-height: 24px;
